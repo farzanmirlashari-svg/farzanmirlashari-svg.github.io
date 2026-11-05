@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "About me"
+title: "Who am I?"
 ---
 
-## Who am I?
 Hi I'm **Farzan** 

@@ -4,4 +4,4 @@ layout: home
 
 
 Welcome! This is where I write
-down any information I'm learning during my experience.
+down any information I've learnt during my experience.
